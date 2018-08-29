@@ -1,0 +1,2 @@
+# bitproxy
+Bitcoin-powered proxy
